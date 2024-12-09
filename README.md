@@ -1,3 +1,3 @@
-# urban-tree-decay-dataset
+# urban-tree-dataset
 
 This dataset comprises a total of **2,878 entries** from seven distinct tree species. Additionally, it includes **seven continuous variables** and **32 categorical variables**, along with the one-hot encoding representation of the species feature. As target variables, it contains two continuous features: the **percentage of decayed area in the cross-section of the tree** and the **ratio of the tree radius to the length of the healthy wall**. Alongside these, there are three categorical targets: the **decay level with two classes**, **the decay level with three classes**, and the **risk of falling**.
